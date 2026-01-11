@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "tsx watch app.js",
+    "sass": "sass scss:styles --watch",
+    "fix": "npm i @types/node && npm i @types/express && npm i tsx"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.97.2"
+  }
+}
