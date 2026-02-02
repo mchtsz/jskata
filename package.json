@@ -5,6 +5,7 @@
     "fix": "npm i @types/node && npm i @types/express && npm i tsx"
   },
   "dependencies": {
+    "ejs": "^4.0.1",
     "express": "^5.2.1"
   },
   "devDependencies": {
