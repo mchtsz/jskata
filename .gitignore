@@ -1,12 +1,12 @@
-# Core files to ignore
+# Ignore following files and directories
+.env
 node_modules
 package-lock.json
-.env
 
-# Custom ignores
-public/*
 styles
-styles/*.css.map
+#styles/*.css.map
+
+public/*
 
 # Includes
 !public/favicon.svg
