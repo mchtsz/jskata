@@ -5,6 +5,7 @@ package-lock.json
 
 # Custom ignores
 public/*
+styles
 styles/*.css.map
 
 # Includes

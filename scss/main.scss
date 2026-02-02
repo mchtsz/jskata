@@ -1,0 +1,13 @@
+// Top-level SCSS file importing all necessary modules
+
+// Base styles
+@use "base/base";
+
+// Component styles
+@use "components/header";
+
+// Layout styles
+@use "layout/layout";
+
+// Variables styles
+@use "variables/variables";

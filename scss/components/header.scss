@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--color--background-primary);
+    padding: 1rem;
+
+    a {
+        color: #fff;
+    }
+
+    img {
+        height: 40px;
+    }
+
+    .nav-links {
+        text-transform: lowercase;
+        display: flex;
+        gap: 2rem;
+    }
+}   
